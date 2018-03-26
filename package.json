@@ -1,0 +1,29 @@
+{
+  "name": "learningecmascript6movingtothenewjavascript",
+  "version": "1.0.0",
+  "description": "A game (multi user dungeon)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asteriasandippal/Learning-ECMAScript-6-Moving-to-the-New-JavaScript.git"
+  },
+  "keywords": [
+    "es6",
+    "es2015",
+    "demo"
+  ],
+  "author": "sandip pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asteriasandippal/Learning-ECMAScript-6-Moving-to-the-New-JavaScript/issues"
+  },
+  "homepage": "https://github.com/asteriasandippal/Learning-ECMAScript-6-Moving-to-the-New-JavaScript#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
